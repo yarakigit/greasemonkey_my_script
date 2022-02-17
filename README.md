@@ -2,6 +2,7 @@
 ---
 ## firefox extention greasemonkey user script
 - [Greasemonkey](https://addons.mozilla.org/ja/firefox/addon/greasemonkey/)
+    -  任意のサイトでスクリプトを自動実行できるアドオン 
 ---
 ### exapme1 : Nagasaki University wifi automation  
 ~~~
