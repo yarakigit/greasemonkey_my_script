@@ -20,10 +20,10 @@ if (!(now_url.indexOf('logout.html') !== -1)) {
     console.log("auto login")
     //ID
     var frm = document.getElementsByName("username")[0];
-    frm.value = "hoge";
+    frm.value = "hoge"; //ID "bbxxxxxxxx"
     //Passward
     var pass = document.getElementsByName("password")[0];
-    pass.value = "piyo"; 
+    pass.value = "piyo"; //Passward "your passward"
   
   	var pre_button = document.getElementsByTagName("body")[0];//redirect_url//buttonClicked
     console.log(pre_button);
