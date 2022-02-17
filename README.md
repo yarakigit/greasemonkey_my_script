@@ -25,7 +25,7 @@ if (!(now_url.indexOf('logout.html') !== -1)) {
     var pass = document.getElementsByName("password")[0];
     pass.value = "piyo"; //Passward "your passward"
   
-  	var pre_button = document.getElementsByTagName("body")[0];//redirect_url//buttonClicked
+    var pre_button = document.getElementsByTagName("body")[0];//redirect_url//buttonClicked
     console.log(pre_button);
     pre_button.onload();	
   		
