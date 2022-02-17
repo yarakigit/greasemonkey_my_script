@@ -6,7 +6,7 @@
 ~~~
 
 // ==UserScript==
-// @name  wifi auto
+// @name  Nagasaki University wifi automation
 // @version  1
 // @grant    none
 // @match    http://wlc.cc.nagasaki-u.ac.jp/fs/*
